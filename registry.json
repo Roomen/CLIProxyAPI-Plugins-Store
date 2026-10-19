@@ -15,6 +15,22 @@
         "Dashboard",
         "Usage"
       ]
+    },
+    {
+      "id": "harness-usage",
+      "name": "Harness Usage",
+      "description": "Local coding-harness usage dashboard for CLIProxyAPI: daily tokens, cache usage and estimated cost for Claude Code, Codex and OpenCode, collected from local history with ccusage. Per-source status, responsive UI, management-key protected. | CLIProxyAPI 本地 harness 用量看板：按日展示 Claude Code、Codex、OpenCode 的 token、缓存用量与估算费用，基于 ccusage 读取本地历史，按来源独立报错，界面自适应，数据经管理密钥鉴权。",
+      "author": "Roomen",
+      "repository": "https://github.com/Roomen/cpa-harness-usage",
+      "homepage": "https://github.com/Roomen/cpa-harness-usage",
+      "license": "MIT",
+      "tags": [
+        "Management",
+        "Usage",
+        "Dashboard",
+        "ccusage",
+        "Cost"
+      ]
     }
   ]
 }
